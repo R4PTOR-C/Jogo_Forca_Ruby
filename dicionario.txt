@@ -1,0 +1,10 @@
+carro
+lampada
+armario
+casa
+programador
+software
+barramento
+teclado
+monitor
+rio de janeiro
